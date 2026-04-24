@@ -8,3 +8,5 @@ Gunakan prefiks berikut untuk penamaan commit:
 - `fix` untuk perbaikan
 - `chore` untuk pekerjaan rutin/tugas
 - `docs` untuk dokumentasi
+
+semoga sukses!!
