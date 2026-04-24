@@ -1,6 +1,6 @@
 # opsis
 
-TBD
+
 
 Gunakan prefiks berikut untuk penamaan commit:
 
