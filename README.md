@@ -1,7 +1,5 @@
 # opsis
 
-
-
 Gunakan prefiks berikut untuk penamaan commit:
 
 - `feat` untuk fitur
