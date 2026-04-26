@@ -7,4 +7,4 @@ Gunakan prefiks berikut untuk penamaan commit:
 - `chore` untuk pekerjaan rutin/tugas
 - `docs` untuk dokumentasi
 
-semoga sukses!!
+semoga sukses!
