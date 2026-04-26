@@ -1,1 +1,1 @@
-Di sini para Data Scientist tinggal YEay.
+Di sini para Data Scientist tinggal YEazz.
